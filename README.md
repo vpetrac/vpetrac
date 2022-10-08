@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Wordpress Theme Development & Ionic Mobile Development<br>🌱 I’m currently learning Flutter & Laravel<br>👯 I’m looking to collaborate on Web nad Mobile Dev Projects<br>💬 Ask me about projects, IT, or anything else<br>📫 How to reach me: vedran@petrach.agency
+🔭 I’m currently working on Wordpress Theme Development & Ionic Mobile Development<br>🌱 I’m currently learning Laravel<br>👯 I’m looking to collaborate on Web nad Mobile Dev Projects<br>💬 Ask me about projects, IT, or anything else<br>📫 How to reach me: vedran@petrach.agency
 
 
 ## 🌐 Socials:
